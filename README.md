@@ -1,0 +1,1 @@
+This repo exists to host Terry Mahaffey's talk on the Microsoft C++ compiler, for the Triangle C++ Developers Group, given at Align on 9/12/2017.  These slides belong to him.
